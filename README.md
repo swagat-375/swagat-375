@@ -13,7 +13,7 @@
 
   - 🌱 I’m currently learning **POWER BI,TABLEAU,EXCEL,NUMPY,PANDAS,SQL**
 
-  - 💬 Ask me about **POWER BI,TABLEAU,EXCEL,NUMPY,PANDAS,SQL**
+  - 💬 Ask me about **POWER BI,EXCEL,NUMPY,PANDAS,SQL**
 
   - 📫 How to reach me **swagatdas375@gmail.com**
 
