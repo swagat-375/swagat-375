@@ -11,7 +11,7 @@
                 src="https://img.shields.io/twitter/follow/swagatd93208318?logo=twitter&style=for-the-badge"
                 alt="swagatd93208318" /></a> </p>
 
-  - 🌱 I’m currently learning **POWER BI,TABLEAU,EXCEL,NUMPY,PANDAS,SQL**
+  - 🌱 I’m currently learning **POWER BI,EXCEL,NUMPY,PANDAS,SQL**
 
   - 💬 Ask me about **POWER BI,EXCEL,NUMPY,PANDAS,SQL**
 
@@ -44,9 +44,7 @@
                 src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/150px-MySQL_logo.svg.png"
                 alt="MySQL" width="40" height="40" /> </a><a href="https://www.tableau.com/" target="_blank"
             rel="noreferrer"> <img
-        src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/375px-Tableau_logo.svg.png"
-                alt="TABLEAU" width="40" height="40" /> </a><a href="https://www.python.org" target="_blank"
-            rel="noreferrer"> <img
+        <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                 alt="python" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank"
             rel="noreferrer"> <img
