@@ -1,16 +1,52 @@
-## Hi there 👋
+# Swagat Das  
+**Data Analyst | Excel • Power BI • SQL • Python**
 
-<!--
-**swagat-375/swagat-375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About
+I am an aspiring **Data Analyst** focused on turning raw data into clear, business-ready insights. I work comfortably across Excel, Power BI, SQL, and Python, and I’m actively building real-world projects to strengthen my analytical thinking and reporting skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+- **Excel**: Advanced formulas, Pivot Tables, Power Query, Dashboards  
+- **Power BI**: Data modeling, DAX, interactive visual reports  
+- **SQL**: Joins, subqueries, CTEs, window functions  
+- **Python**: Pandas, NumPy (data analysis & cleaning)
+
+---
+
+## What I Do
+- Clean and transform messy datasets  
+- Analyze business performance and KPIs  
+- Build dashboards that answer real questions  
+- Write efficient, readable SQL queries  
+
+---
+
+## Selected Projects
+**Sales Analytics Dashboard (Power BI)**  
+Interactive dashboard analyzing revenue trends, growth metrics, and product performance using DAX.
+
+**Customer Insights Analysis (SQL)**  
+Customer segmentation and revenue analysis using advanced SQL queries.
+
+**Data Analysis with Python**  
+Data cleaning and exploratory analysis using Pandas and NumPy to uncover patterns and insights.
+
+---
+
+## Currently Improving
+- Advanced DAX and Power BI optimization  
+- Business-focused analytics case studies  
+- End-to-end analytics projects
+
+---
+
+## Contact
+- LinkedIn: *(add link)*  
+- Email: *(add email)*  
+
+---
+
+*Building skills. Shipping projects. Getting better every day.*
