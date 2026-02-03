@@ -44,8 +44,9 @@ Data cleaning and exploratory analysis using Pandas and NumPy to uncover pattern
 ---
 
 ## Contact
-- LinkedIn: *(add link)*  
-- Email: *(add email)*  
+- LinkedIn:  www.linkedin.com/in/swagat-das-688134224
+-   
+- Email: Swagatdas375@gmail.com
 
 ---
 
